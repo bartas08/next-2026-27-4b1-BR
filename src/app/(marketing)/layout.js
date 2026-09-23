@@ -4,7 +4,7 @@ export default function RootLayout({ children }) {
       <body>
         <header style={{ background: '#f0f0f0', padding: '1rem' }}>
           <nav>
-            <strong>Moja Aplikacja Szkolna</strong>
+            <strong>Moja Aplikacja Szkolna ukryta </strong>
           </nav>
         </header>
         {children}
