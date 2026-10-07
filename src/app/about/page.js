@@ -1,3 +1,5 @@
+import Card from '@/components/Card';
+
 export default function AboutPage() {
   return (
     <main style={{ padding: '2rem' }}>

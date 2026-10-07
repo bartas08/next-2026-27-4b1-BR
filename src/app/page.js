@@ -1,5 +1,6 @@
 import Link from 'next/link';
-
+import Counter from '@/components/Counter';
+<Counter />
 export default function HomePage() {
   return (
     <main style={{ padding: '2rem' }}>
